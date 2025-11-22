@@ -16,7 +16,7 @@
 # FIXME: choose title
 project = "Your lesson name"
 # FIXME: insert correct author
-author = "The contributors"
+author = "The ENCCS TEAM"
 copyright = f"2025, ENCCS, {author}"
 
 # FIXME: github organization / user that the repository belongs to
